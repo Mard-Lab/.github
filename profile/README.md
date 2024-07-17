@@ -14,6 +14,12 @@ Founded at 2022
 - Nop   
 
 ---------------------------------------------------------------------------------------------------------
-## **Website**                        **LinkedIn**                                                             **Twitter (X)** 
-https://mardlab.org          https://www.linkedin.com/company/mardlab           https://x.com/0xMardLab
+## **Website**                       
+https://mardlab.org     
+
+**LinkedIn**                                                            
+https://www.linkedin.com/company/mardlab  
+
+**Twitter (X)** 
+https://x.com/0xmardlab
 ---------------------------------------------------------------------------------------------------------
