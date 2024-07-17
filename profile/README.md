@@ -8,6 +8,8 @@ Founded at 2022
 - Developing **enterprise** solutions. 
 - Affiliated with **Low Level Land** (LLL)  community.
 
+----- 
+
 ### Members
 
 - Mard
@@ -23,5 +25,3 @@ https://www.linkedin.com/company/mardlab
 
 ## **Twitter (X)**
 https://x.com/0xmardlab
-
----------------------------------------------------------------------------------------------------------
