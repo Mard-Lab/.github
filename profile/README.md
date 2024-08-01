@@ -2,7 +2,7 @@
 Founded at 2022
 
 - Experienced research team focused on **software binary**, and **virtualization framework binary exploitations** , **code auditing**, and **hardwares**. 
-- **Multi-national** team. 🇰🇷 🇦🇹 🇺🇸 
+- **Multi-national** team. 🇰🇷 🇦🇹 🇺🇸 🇵🇱
 - **Public** resources and **tutorials**.
 - **Trainings** on Fuzzing, Hypervisor development on-site.
 - Developing **enterprise** solutions. 
