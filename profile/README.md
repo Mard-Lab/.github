@@ -13,7 +13,11 @@ Founded at 2022
 ### Members
 
 - Mard
-- Nop   
+- Nop
+- Xephora (PJ)
+- Kozmer
+- Brathaider
+   
 
 ---------------------------------------------------------------------------------------------------------
 
@@ -24,4 +28,4 @@ https://mardlab.org
 https://www.linkedin.com/company/mardlab  
 
 ## **Twitter (X)**
-https://x.com/0xmardlab
+https://x.com/Mard_Lab
