@@ -6,7 +6,6 @@ Founded at 2022
 - **Public** resources and **tutorials**.
 - **Trainings** on Fuzzing, Hypervisor development on-site.
 - Developing **enterprise** solutions. 
-- Affiliated with **Low Level Land** (LLL)  community.
 
 ----- 
 
