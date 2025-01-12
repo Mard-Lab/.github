@@ -25,8 +25,5 @@ Founded at 2022
 ## **Website**                       
 https://mardlab.org     
 
-## **LinkedIn**                                                            
-https://www.linkedin.com/company/mardlab  
-
 ## **Twitter (X)**
 https://x.com/Mard_Lab
