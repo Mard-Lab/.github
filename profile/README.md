@@ -6,20 +6,6 @@ Founded at 2022
 - **Public** resources and **tutorials**.
 - **Trainings** on Fuzzing, Hypervisor development on-site.
 - Developing **enterprise** solutions. 
-
------ 
-
-### Members
-
-- Mard
-- Nop
-- Xephora (PJ)
-- Kozmer
-- Brathaider
-- SinisterMatrix
-- 🐸🐸 Jord 🐸🐸
-   
-
 ---------------------------------------------------------------------------------------------------------
 
 ## **Website**                       
